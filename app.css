@@ -1,0 +1,112 @@
+body {
+    margin: 0%;
+    font-family: 'Oxygen', sans-serif;
+    background-color: rgb(14, 4, 4);
+}
+
+#mainNavbar .navbar-brand {
+    font-size: 2rem;
+    color: #ba181b;
+}
+
+#mainNavbar .navbar-brand:active {
+    font-size: 2rem;
+    color: silver;
+}
+
+#navlist .nav-link {
+    font-size: 1.5rem;
+    color: white;
+}
+
+#navlist .nav-link:hover {
+    font-size: 1.5rem;
+    color: #ba181b;
+}
+
+.main-1 {
+    margin-top: 4.45rem;
+    color: wheat;
+    background-position: center;
+    background-image: url(imgs/bg/2.avif);
+    height: 85vh;
+}
+
+.main-1 .headline {
+    font-size: 5rem;
+}
+
+.hd-1 h1 {
+    font-size: 4rem;
+    color: floralwhite;
+    font-weight: 700;
+}
+
+.line p {
+    line-height: 1.5rem;
+    color: gray;
+}
+
+.line h1 {
+    color: antiquewhite;
+}
+
+
+.cpu img {
+    height: 65vh;
+}
+
+.monitor img {
+    height: 70vh;
+}
+
+.keyboard img {
+    height: 65vh;
+}
+
+.mouse img {
+    height: 70vh;
+}
+
+.controller img {
+    height: 70vh;
+}
+
+.mat img {
+    height: 70vh;
+}
+
+.headphone img {
+    height: 80vh;
+}
+
+.main-4 {
+    background-color: rgb(33, 31, 31);
+    height: 40vh;
+}
+
+.top p {
+    color: gray;
+    font-size: 1rem;
+}
+
+.fl a {
+    color: white;
+}
+
+.fl a:hover {
+    color: rgb(206, 195, 195);
+}
+
+.fo a {
+    color: white;
+}
+
+.fo i {
+    font-size: 1.1rem;
+    color: white;
+}
+
+.terms p {
+    color: white;
+}
